@@ -1,1 +1,7 @@
-name, date, description
+Jacinda Ballantyne, 4/14/15
+Description: This program produces a tetrahedron that is lighted with the modified Phong model and textured with a 
+checkerboard pattern. It can be rotated with the arrow keys as follows:
+left arrow - rotate counterclockwise about the Y axis 
+right arrow - rotate clockwise about the Y axis
+up arrow - rotate counterclockwise about the X axis
+down arrow - rotate clockwise about the X axis.
